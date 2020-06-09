@@ -1,0 +1,10 @@
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783878/; Protein ligand interaction primer
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3245087/; Pocketome paper demonstrating binding site plasticity or multiple conformations of a protein
+https://pubs.acs.org/doi/full/10.1021/acs.jcim.6b00740; Koes lab 2017 paper
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6931043/; Koes lab 2018 paper
+https://s3-eu-west-1.amazonaws.com/itempdf74155353254prod/11833323/3D_Convolutional_Neural_Networks_and_a_CrossDocked_Dataset_for_Structure-Based_Drug_Design_v1.pdf; Koes lab 2020 paper
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5085656/; Amino Acid contact matrix paper
+https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780; graph cnn towards data science
+https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf; protein interface predict graph cnn
+https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00628; graph cnn Drug-Target interactions
+
